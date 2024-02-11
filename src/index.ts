@@ -22,4 +22,15 @@ let x;
 x = 5;
 x= "5";
 
+// union types 
+let money: number | string;
+money = 500;
+money = "500",
+money = "Five Hundred"
+
+// value as type 
+let dinner: "beef" | "chicken";
+dinner = "beef";
+const myCountry = "Bangladesh";
+
 

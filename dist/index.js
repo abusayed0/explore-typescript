@@ -18,3 +18,12 @@ isHappy = true;
 let x;
 x = 5;
 x = "5";
+// union types 
+let money;
+money = 500;
+money = "500",
+    money = "Five Hundred";
+// value as type 
+let dinner;
+dinner = "beef";
+const myCountry = "Bangladesh";
