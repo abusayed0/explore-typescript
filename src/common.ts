@@ -1,0 +1,1 @@
+let languages = ["JavaScript", "Typescript"];
